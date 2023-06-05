@@ -6,11 +6,10 @@
 </p>
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
-# Sobre o projeto
-O projeto foi criado na intenção de exercitar meus conhecimentos em javaScript e principalmente a manipulação de DOM
-
-## Layout 
-<img src="./readme/img1.png" alt="@Hawk_web" height="200"><img src="./readme/img2.png" alt="@Hawk_web" height="200"><img src="./readme/img3.png" alt="@Hawk_web" height="200"><img src="./readme/img4.png" alt="@Hawk_web" height="200"><img src="./readme/img5.png" alt="@Hawk_web" height="200"><img src="./readme/img6.png" alt="@Hawk_web" height="200">
+## Layout Web
+<img src="./readme/img1.PNG" alt="@Hawk_web" height="200"><img src="./readme/img2.PNG" alt="@Hawk_web" height="200">
+## Layout Mobile
+<img src="./readme/img3.png" alt="@Hawk_web" height="200"><img src="./readme/img4.png" alt="@Hawk_web" height="200">
 # Tecnologias utilizadas
 - React.js
 - TailwindCss
